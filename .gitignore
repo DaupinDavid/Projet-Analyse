@@ -1,0 +1,9 @@
+# Fichiers de données
+data/raw/*.csv
+data/processed/*.csv
+
+# Fichiers systèmes Python et Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
